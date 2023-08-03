@@ -1,0 +1,35 @@
+//1
+/*pro Processing 
+this is the first step in c performed using using the pro process
+ toolbar.all starting with# areused, then converts program to an intermediate
+  file. there are also processes like comments removal,macros expansion like definning a value 
+area of circle->compilation->int main()
+
+compiling
+uses in belt compilation processor software that processes and then translates
+ intermediate file to assembly file.
+int main-> compiller->push
+
+assembling
+s.file converts into a manchine code(binary). here there is the bnary, hexa decimal and
+ extentions of .obj in DOS snd .o in Unix
+push-> asembler->01001001
+
+ Linking
+ here files are included to library files. These are lib files and .obj and the .o for unix
+...leg=>linker->101010011
+*/
+
+/*2
+Assembler is a program for converting instructions written in low-level assembly code into relocatable
+ machine code and generating along information for the loader.
+ It generates instructions by evaluating symbols) in operation field and find the value of 
+symbol and literals to produce machine code.START: This instruction starts the execution of
+ program from location,MOVER: It moves the content,MOVEM: It moves the content of register 
+ into memory operand,LTORG: It assigns address to literals(current LC value).
+DS(Data Space): It assigns a data space of 1 to Symbol X.
+END: It finishes the program execution
+
+//3
+when its off programs are not loaded the main memory is empty but as you switch its off it starts running
+the computer transfers the operating system from the hard disk to main memory. thety are execued by double tapping a program

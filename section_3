@@ -1,0 +1,14 @@
+//1
+#!/bin/bash/
+$search-dir'; do
+file = 'find home/abc/documents/2011-11
+sed -e 's/mountain/sea/g' $file
+//2
+'expr $n%2'
+//3
+#!/bin/bash
+set -echo "arg1=$1"
+if [! -f "$1"]
+then 
+"echo file $does not exist."
+exit 1
